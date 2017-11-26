@@ -1,2 +1,2 @@
 # hello-world
-My test repository
+Hi guyes! I like C# and C++ 
